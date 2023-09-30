@@ -18,6 +18,7 @@ int main()
         //     cout << count << " ";   
         //     count = count + 1;
         // }
+        
         // Second approch
         for(col = 1; col <= 5; col++) {
             cout << (row - 1) * 5 + col << " ";
