@@ -54,7 +54,7 @@ int main()
     // else
     // cout << "Consonant";
 
-// NOT(!) Operator
+    // NOT(!) Operator
 
     // cout << !23 <<endl;
     // cout << !0 <<endl;
