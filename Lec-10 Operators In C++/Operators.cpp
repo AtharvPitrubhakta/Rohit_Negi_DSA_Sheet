@@ -23,7 +23,7 @@ int main()
     //     cout << "yes";
     // else
     //     cout << "no";
-    
+
 
     // > , < , >= , <= , !=
  
@@ -33,11 +33,9 @@ int main()
     //     cout << "No";
 
     
+// LOGICAL OPERATORS 
 
-
-    // Logical Operators
-
-// And(&&) Operator
+    // And(&&) Operator
     // int a, b, c;
     // cin >> a >> b >> c;
 
