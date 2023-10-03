@@ -8,7 +8,7 @@ int main()
 
     // cout << b << " " << a; 
 
-    // comparison operator 
+// COMPARISON OPERATORS 
     // 1 or 0
 
     // int a, b;   
