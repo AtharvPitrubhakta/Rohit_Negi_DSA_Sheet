@@ -45,7 +45,7 @@ int main()
     // cout << "No";
 
 
-// Or(||) Operator
+    // Or(||) Operator
 
     // char name = 'i';
 
