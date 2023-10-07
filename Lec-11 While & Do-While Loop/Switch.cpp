@@ -41,5 +41,6 @@ int main()
         cout << "Love";
         break;
     }
+    
     return 0;
 }
