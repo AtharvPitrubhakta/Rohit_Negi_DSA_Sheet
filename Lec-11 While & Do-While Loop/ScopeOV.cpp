@@ -10,7 +10,7 @@ int main()
     //     cout << n;
     // }
 
-    for( ; i <= 30; i++) {
+    for(i = 21; i <= 30; i++) {
         cout << i << " ";
     }
 }
