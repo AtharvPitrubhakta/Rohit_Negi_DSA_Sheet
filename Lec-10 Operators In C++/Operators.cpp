@@ -8,7 +8,7 @@ int main()
 
     // cout << b << " " << a; 
 
-// COMPARISON OPERATORS 
+    // comparison operator 
     // 1 or 0
 
     // int a, b;   
@@ -23,7 +23,7 @@ int main()
     //     cout << "yes";
     // else
     //     cout << "no";
-
+    
 
     // > , < , >= , <= , !=
  
@@ -33,9 +33,11 @@ int main()
     //     cout << "No";
 
     
-// LOGICAL OPERATORS 
 
-    // And(&&) Operator
+
+    // Logical Operators
+
+// And(&&) Operator
     // int a, b, c;
     // cin >> a >> b >> c;
 
@@ -45,7 +47,7 @@ int main()
     // cout << "No";
 
 
-    // Or(||) Operator
+// Or(||) Operator
 
     // char name = 'i';
 
@@ -54,7 +56,7 @@ int main()
     // else
     // cout << "Consonant";
 
-    // NOT(!) Operator
+// NOT(!) Operator
 
     // cout << !23 <<endl;
     // cout << !0 <<endl;
@@ -86,6 +88,7 @@ int main()
     // // ~  operator
     // int ans5 = ~10;
     // cout <<"My answer is: "<< ans5 << endl;
+
 
 
 // Assignment Operators
