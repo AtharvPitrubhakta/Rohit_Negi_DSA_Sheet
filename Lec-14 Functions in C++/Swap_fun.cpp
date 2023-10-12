@@ -38,6 +38,7 @@ using namespace std;
 //     d = e;
 // }
 
+
 int main()
 {
     int a, b;
@@ -54,4 +55,6 @@ int main()
     // swap ka S captial nhi hona chaiye 
     swap(f1, f2);
     cout << f1 << " " << f2;
+
+    return 0;
 }
