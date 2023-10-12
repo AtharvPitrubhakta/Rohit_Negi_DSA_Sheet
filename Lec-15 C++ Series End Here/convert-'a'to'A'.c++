@@ -7,6 +7,7 @@ char convert(char name)
     return ans;
 }
 
+
 int main()
 {  
      char name;
